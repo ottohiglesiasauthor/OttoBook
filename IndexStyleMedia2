@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cuba, Your Children Cry | Otto H. Iglesias</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Award-recognized cultural and historical memoir by Otto H. Iglesias exploring Cuban exile, identity, and generational memory.">
+  <meta name="keywords" content="Cuba Your Children Cry, Otto H. Iglesias, Cuban exile memoir, Cuban refugee history, cultural historical memoir">
+  <meta name="author" content="Otto H. Iglesias">
+
+  <meta property="og:title" content="Cuba, Your Children Cry">
+  <meta property="og:description" content="Award-recognized cultural and historical memoir by Otto H. Iglesias.">
+  <meta property="og:type" content="website">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="hero">
+  <h1>Cuba, Your Children Cry</h1>
+  <h2>A Cultural & Historical Memoir</h2>
+  <p class="author">by Otto H. Iglesias</p>
+
+  <p class="award">
+    International Impact Book Awards<br>
+    <strong>Non-Fiction — Cultural & Historical Memoir</strong>
+  </p>
+
+  <div class="cta">
+    <a href="#buy" class="btn">Buy the Book</a>
+    <a href="#media" class="btn secondary">Media & Press</a>
+    <a href="#speaking" class="btn secondary">Speaking</a>
+  </div>
+</header>
+
+<section class="section">
+  <h2>About the Book</h2>
+  <p>
+    <em>Cuba, Your Children Cry</em> is a cultural and historical memoir examining the
+    Cuban refugee experience through personal narrative and historical context.
+    Otto H. Iglesias explores exile, identity, and generational memory, offering a
+    deeply human account of displacement and resilience.
+  </p>
+</section>
+
+<section class="section alt">
+  <h2>About the Author</h2>
+  <p>
+    Otto H. Iglesias is a first-generation Cuban American born and raised in Miami,
+    Florida. The son of Cuban refugees, his work focuses on exile, cultural identity,
+    and historical preservation.
+  </p>
+  <p>
+    He earned a Juris Doctor from Michigan State University College of Law and an LL.M.
+    in Trial Advocacy from Temple University. He currently resides in Rhode Island
+    with his spouse and son.
+  </p>
+</section>
+
+<section class="section">
+  <h2>Awards & Recognition</h2>
+  <ul>
+    <li><strong>International Impact Book Awards</strong> — Non-Fiction (Cultural & Historical Memoir)</li>
+  </ul>
+</section>
+
+<section class="section alt" id="media">
+  <h2>Media & Press</h2>
+  <p>
+    Otto H. Iglesias is available for interviews, podcast appearances,
+    articles, and panel discussions.
+  </p>
+
+  <ul>
+    <li>Cuban exile & refugee history</li>
+    <li>Cultural identity & generational trauma</li>
+    <li>Immigration, resilience, and belonging</li>
+    <li>Storytelling as historical preservation</li>
+  </ul>
+
+  <p>
+    <a href="media/Cuba_Your_Children_Cry_Press_Kit.pdf" class="btn">
+      Download Press Kit (PDF)
+    </a>
+  </p>
+
+  <p><strong>Media Contact:</strong><br>
+     Otto.H.Iglesias@gmail.com
+  </p>
+</section>
+
+<section class="section" id="speaking">
+  <h2>Speaking Engagements</h2>
+  <p>
+    Available for universities, libraries, cultural institutions,
+    book clubs, and community organizations.
+  </p>
+
+  <ul>
+    <li>Keynote addresses</li>
+    <li>Moderated discussions</li>
+    <li>Book club & classroom conversations</li>
+    <li>Virtual or in-person events</li>
+  </ul>
+
+  <p class="fees">
+    Speaking fees vary depending on event type, format, and travel.
+    Educational and nonprofit organizations are welcome to inquire.
+  </p>
+</section>
+
+<section class="section alt" id="buy">
+  <h2>Buy the Book</h2>
+  <p>Available through major booksellers and independent bookstores.</p>
+  <a href="#" class="btn">Amazon</a>
+  <a href="#" class="btn secondary">Independent Bookstores</a>
+</body {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.6;
+  color: #222;
+  background: #fafafa;
+}
+
+.hero {
+  background: #1f2a33;
+  color: #fff;
+  text-align: center;
+  padding: 90px 20px;
+}
+
+.hero h1 {
+  font-size: 3em;
+  margin-bottom: 10px;
+}
+
+.hero h2 {
+  font-weight: normal;
+}
+
+.author {
+  font-style: italic;
+}
+
+.award {
+  margin-top: 15px;
+  color: #ddd;
+}
+
+.cta {
+  margin-top: 30px;
+}
+
+.section {
+  max-width: 900px;
+  margin: auto;
+  padding: 60px 20px;
+}
+
+.section.alt {
+  background: #f0f0f0;
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 22px;
+  margin: 6px;
+  background: #8b2d2d;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.btn.secondary {
+  background: #444;
+}
+
+.fees {
+  font-style: italic;
+}
+
+footer {
+  background: #1f2a33;
+  color: #fff;
+  text-align: center;
+  padding: 30px 20px;
+  font-size: 0.9em;
+}
+<section class="section" id="contact">
+  <h2>Contact</h2>
+  <p>
+    For media inquiries, speaking engagements, or general questions:<br>
+    <strong>Otto.H.Iglesias@gmail.com</strong>
+  </p>
+</section>
+
+<footer>
+  <p>© 2025 Otto H. Iglesias. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
+media/Cuba_Your_Children_Cry_Press_Kit.pdf
